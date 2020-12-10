@@ -45,6 +45,7 @@ class Format:
 
 @dataclass
 class Result:
+    video_id: str = None
     title: str = None
     author: str = None
     length: int = None

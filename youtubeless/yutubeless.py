@@ -80,6 +80,7 @@ def _get_result(video_info):
     }
 
     return types.Result(
+        video_id=video_details['videoId'],
         title=unquote_plus(video_details['title']),
         author=unquote_plus(video_details['author']),
         length=video_details['lengthSeconds'],
