@@ -5,7 +5,7 @@ from .exceptions import VideoNotAvailableException, WrongUrlException
 from .yutubeless import search_async, search
 
 
-__version__ = '1.0.2'
+__version__ = '1.1'
 
 __all__ = [
     search, search_async,

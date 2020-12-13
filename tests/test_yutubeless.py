@@ -17,6 +17,7 @@ URL_NORMAL = [
     "http://www.youtube.com/ytscreeningroom?v=NRHVzbJVx8I",
     "http://www.youtube.com/user/Scobleizer#p/u/1/1p3vcRhsYGo",
     "http://www.youtube.com/watch?v=JYArUl0TzhA&feature=featured",
+    "https://www.youtube.com/watch?v=WvV5TbJc9tQ"
 ]
 URL_BROKEN = [
     "https://www.youtube.com/watch?vasd=BaMcFghlVEASDU",
@@ -29,7 +30,6 @@ URL_BROKEN = [
 URL_NOT_AVAILABLE = [
     "https://www.youtube.com/watch?v=BaMcFghlVEASDU",
     "http://www.youtube.com/sandalsResorts#p/c/54B8C800269D7C1B/0/FJUvudQsKCM",  # private video
-    "https://www.youtube.com/watch?v=WvV5TbJc9tQ"  # lil peep, why?
 ]
 
 

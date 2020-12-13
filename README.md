@@ -2,6 +2,7 @@
 # youtubeless
 Get youtube video information and download links by url!
 
+btw i don't know why u need to use this instead of youtube-dl ¯\_(ツ)_/¯
 
 Usage
 -----
